@@ -18,7 +18,7 @@ def menu()
     puts "[#{VISUALIZAR_RECEITAS}] Ver todas as receitas"
     puts "[#{SAIR}] Sair"
 
-    print "Escolha uma opção"
+    print "Escolha uma opção "
 end
 #chamar o método com ou sem ()
 bem_vindo()
